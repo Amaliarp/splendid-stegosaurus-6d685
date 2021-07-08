@@ -291,7 +291,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Nuestro Blog
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
