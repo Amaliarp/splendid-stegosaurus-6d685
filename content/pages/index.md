@@ -117,7 +117,7 @@ sections:
       - title: >-
           “XXXX me pertmite tener datos precisos de demanda y precios en el
           mercado.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Pierre Becerril, CEO at Transparent Intelligence'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
