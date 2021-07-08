@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Cooperativa de datos de agencias inmobiliarias
-    subtitle: 'Gana '
+    subtitle: Gana tokens por tus datos anonimizados
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
