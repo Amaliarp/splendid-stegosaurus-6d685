@@ -60,10 +60,10 @@ sections:
     features:
       - title: Comparte datos de transacción cerradas de forma anónima y segura
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.a'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Los datos de transacción permiten a actores del mercado tomar decisión
+          estratégicas de inversión. Por esa razón el sistema los agrega de
+          forma anónima para proveer informes de mercados.
         actions:
           - label: Learn More
             url: /style-guide
