@@ -11,7 +11,7 @@ sections:
       - label: Compartir Datos
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Como Funciona
         url: /features
         style: secondary
     image: images/classic/hero.png
