@@ -126,7 +126,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: El Futuro es Crypto. Ayudamos a que las agencias también beneficien.
-    subtitle: El futuro es Crypto.
+    subtitle: El futuro es Crypto. Ayudamos a que las agencias también beneficien.
     grid_items:
       - title: Section Item 1
         title_align: left
