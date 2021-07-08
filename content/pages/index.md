@@ -8,7 +8,7 @@ sections:
       Sed de los primeros a compartir vuestros datos de manera anónima y segura
       en el blockchain a cambio de tokens.
     actions:
-      - label: Try Free
+      - label: Compartir Datos
         url: /pricing
         style: primary
       - label: Learn More
