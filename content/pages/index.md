@@ -58,7 +58,7 @@ sections:
     title: Asi funciona la cooperativa
     subtitle: El blockchain ofrece transparencia y seguridad
     features:
-      - title: Comparte tus datos de forma anonima y segura
+      - title: Comparte tus datos de forma anónima y segura
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
