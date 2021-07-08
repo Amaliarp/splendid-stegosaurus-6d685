@@ -99,7 +99,7 @@ sections:
           No te pierdas la revolución del blockchain y no seas el ultimo en
           colectar Tokens a cambio de tus datos.
         actions:
-          - label: Learn More
+          - label: Leer más
             url: /style-guide
             style: primary
             has_icon: true
