@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Comparte tus datos anónimamente a cambio de tokens
+    title: Cooperativa de datos de agencias inmobiliarias
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
