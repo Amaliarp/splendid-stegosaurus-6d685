@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Unete a la revolución crypto
-    subtitle: Las agencias que ya forman parte
+    subtitle: Une tu empresa a la Revolución de Cryptomonedas
     align: center
     grid_items:
       - image: images/logo-1.svg
