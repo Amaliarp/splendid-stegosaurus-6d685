@@ -76,10 +76,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Recibe Tokens a cambio de tus datos
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Automáticamente, se te crea un wallet en el que se deposita una
+          cantidad de token equivalente a la cantidad de datos que has
+          compartido.
         actions:
           - label: Learn More
             url: /style-guide
