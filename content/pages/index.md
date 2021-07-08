@@ -125,7 +125,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: El Futuro
+    title: El Futuro es Crypto. Para las agencias tambien
     subtitle: Literatura
     grid_items:
       - title: Section Item 1
