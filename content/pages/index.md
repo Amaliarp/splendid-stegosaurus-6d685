@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Comparte tus datos a '
+    title: Comparte tus datos anonimamente a cambio de tokens
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
