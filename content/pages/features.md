@@ -2,7 +2,7 @@
 title: Como Funciona
 sections:
   - type: hero_section
-    title: Explore Features
+    title: Como funciona
     subtitle: Features Page Demo
     background_color: primary
     section_id: Comofunciona
