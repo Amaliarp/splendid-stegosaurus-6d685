@@ -59,7 +59,7 @@ sections:
     subtitle: El blockchain ofrece transparencia y seguridad
     features:
       - title: Comparte datos de transacción cerradas de forma anónima y segura
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.a'
+        subtitle: Nuestro sistema valida y agrega los datos de manera anónima
         content: >
           Los datos de transacción permiten a actores del mercado tomar decisión
           estratégicas de inversión. Por esa razón el sistema los agrega de
