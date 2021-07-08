@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: C
+    title: 'Comparte tus datos a '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
