@@ -95,10 +95,9 @@ sections:
         subtitle: >-
           Vende tus tokens, guárdalos como inversión o utilízalos para comprar
           informes de mercado.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          No te pierdas la revolución del blockchain y no seas el ultimo en
+          colectar Tokens a cambio de tus datos.
         actions:
           - label: Learn More
             url: /style-guide
