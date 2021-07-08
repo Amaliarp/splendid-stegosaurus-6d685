@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Unete a la revolución crypto
     subtitle: Las agencias que ya forman parte
     align: center
     grid_items:
