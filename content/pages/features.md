@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Como Funciona
 sections:
   - type: hero_section
     title: Explore Features
