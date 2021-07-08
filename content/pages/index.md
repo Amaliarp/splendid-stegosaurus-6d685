@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Cooperativa de datos de agencias inmobiliarias
     subtitle: Gana tokens por tus datos anonimizados
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Sed de los primeros a compartir vuestros datos de manera anónima y segura
+      en el blockchain a cambio de tokens.
     actions:
       - label: Try Free
         url: /pricing
