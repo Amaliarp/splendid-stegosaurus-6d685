@@ -5,6 +5,7 @@ sections:
     title: Explore Features
     subtitle: Features Page Demo
     background_color: primary
+    section_id: Comofunciona
   - type: features_section
     features:
       - title: Section Title One
