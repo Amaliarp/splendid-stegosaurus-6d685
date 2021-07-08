@@ -3,7 +3,7 @@ title: Como Funciona
 sections:
   - type: hero_section
     title: Como funciona
-    subtitle: 'La cooperativa '
+    subtitle: La cooperativa de datos en el blockchain para agencias inmobiliarias.
     background_color: primary
     section_id: Comofunciona
   - type: features_section
