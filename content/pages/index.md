@@ -93,7 +93,7 @@ sections:
         media_width: fifty
       - title: Gestiona tus tokens
         subtitle: >-
-          Vende tus tokens, guardalos como inversión o utilizalos para comprar
+          Vende tus tokens, guárdalos como inversión o utilizalos para comprar
           datos de mercado
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
