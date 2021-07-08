@@ -292,7 +292,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Nuestro Blog
-    subtitle: Blog Feed Section Example
+    subtitle: Mantente informado sobre los progresos de la cooperativa.
     actions:
       - label: View All
         url: /blog
