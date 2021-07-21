@@ -244,7 +244,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Consigue Token para tu Compañia
+    title: Consigue Tokens para tu Compañia
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
